@@ -1,1 +1,1 @@
-# auto_test_api
+# Пет-проект: "Автоматизированное тестирование openAPI GoogleMaps"
